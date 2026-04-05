@@ -44,7 +44,8 @@ Tools: `VS Code`  `Git & GitHub`  `Cursor`   `Postman`  `ChatGPT`  `Deepseek`
   <hr>
 
 
-📱 Mobile Development
+`📱 Mobile Development`
+
 <div align="left">
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
 <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
@@ -52,8 +53,35 @@ Tools: `VS Code`  `Git & GitHub`  `Cursor`   `Postman`  `ChatGPT`  `Deepseek`
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </div>
 
+<br>
 
-🌐 Frontend & Backend
+`🗄️ Database & Storage`
+<br>
+<div align="left">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Hive-FDE01A?style=for-the-badge&logo=apache-hive&logoColor=black" alt="Hive" />
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
+</div>
+
+
+
+<br>
+`🛠️Tools & AI`
+
+<div align="left">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/DeepSeek-0000FF?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
+</div>
+
+
+
+
+<br>
+`🌐Frontend & Backend`
+
 <div align="left">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
@@ -63,5 +91,10 @@ Tools: `VS Code`  `Git & GitHub`  `Cursor`   `Postman`  `ChatGPT`  `Deepseek`
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
+
+
+
+
+`🧠LeetCode`
 
  ![Leetcode Stats](https://leetcard.jacoblin.cool/praneshck7?theme=dark)
