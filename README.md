@@ -65,7 +65,7 @@ Tools: `VS Code`  `Git & GitHub`  `Cursor`   `Postman`  `ChatGPT`  `Deepseek`
 
 
 
-<br>
+
 `🛠️Tools & AI`
 
 <div align="left">
@@ -79,7 +79,7 @@ Tools: `VS Code`  `Git & GitHub`  `Cursor`   `Postman`  `ChatGPT`  `Deepseek`
 
 
 
-<br>
+
 `🌐Frontend & Backend`
 
 <div align="left">
