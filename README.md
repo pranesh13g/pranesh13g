@@ -3,9 +3,9 @@
     <img style="width: 100%; height: auto;" src="https://res.cloudinary.com/dxjg6mzbq/image/upload/v1775361751/Gemini_Generated_Image_sluy9tsluy9tsluy_tuzjmg.png"/>
  </a>
 </div>
-<hr>
 
-### 🐼 About Me :
+
+###  About Me :
 
 I am a passionate Junior Flutter Developer dedicated to building high-performance, cross-platform mobile applications with smooth, responsive user experiences. With a strong foundation in Computer Science and Engineering, I focus on writing clean, maintainable code and implementing scalable state management solutions.
 
