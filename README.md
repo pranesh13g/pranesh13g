@@ -37,11 +37,7 @@ Tools: `VS Code`  `Git & GitHub`  `Cursor`   `Postman`  `ChatGPT`  `Deepseek`
 - Optimized app performance using Provider for state management
 - Integrated REST APIs and JWT-based authentication for secure access
 
-### Junior Web Developer (Intern) | Skyland Web (Mar 2024 – Sep 2024)
-- Designed user-centric software applications
-- Wrote clean, maintainable code to ensure long-term quality
 
-  <hr>
 
 
 `📱 Mobile Development`
