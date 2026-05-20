@@ -1,7 +1,7 @@
 <div id="header" align="center">
- <a href ="https://www.linkedin.com/in/pranesh-chakma/" target="_blank">
+ 
     <img style="width: 100%; height: auto;" src="https://res.cloudinary.com/dxjg6mzbq/image/upload/v1775361751/Gemini_Generated_Image_sluy9tsluy9tsluy_tuzjmg.png"/>
- </a>
+ 
 </div>
 
 
